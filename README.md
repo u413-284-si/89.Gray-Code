@@ -11,7 +11,7 @@ An n-bit gray code sequence is a sequence of 2n integers where:
 
 ## Example
 
-'''
+```
 Input: n = 2
 Output: [0,1,3,2]
 Explanation:
@@ -25,4 +25,4 @@ The binary representation of [0,1,3,2] is [00,01,11,10].
 - 10 and 11 differ by one bit
 - 11 and 01 differ by one bit
 - 01 and 00 differ by one bit
-'''
+```
